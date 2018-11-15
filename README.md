@@ -2,7 +2,7 @@
 Deltarune mod that changes Lancer into a dog.
 
 A tutorial to add this mod to your game:
-1. Download "data.win" and "lang.zip" by clicking on them above this message, and clicking the "Download" button.
+1. Go to https://github.com/yoshifan999/dog-lancer-mod/raw/master/data.win and to download the modded data.win and lang.
 2. Extract lang.zip. Make sure lang.zip is NOT in SURVEY_PROGRAM before doing this, as you won't be able to extract it there.
 3. Copy the now-extracted "lang" folder, and delete the lang folder in SURVEY_PROGRAM. This will require administrator permissions.
 4. Paste the "lang" folder into SURVEY_PROGRAM. This will also require administrator permissions.
